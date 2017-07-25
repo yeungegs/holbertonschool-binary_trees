@@ -48,5 +48,6 @@ binary_tree_t *binary_tree_uncle(binary_tree_t *node);
 
 void binary_tree_print(const binary_tree_t *);
 size_t measure_height(const binary_tree_t *tree);
+size_t measure_depth(const binary_tree_t *node);
 
 #endif /* _BINARY_TREES_ */
