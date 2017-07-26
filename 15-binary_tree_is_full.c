@@ -25,13 +25,14 @@ int binary_tree_is_full(const binary_tree_t *tree)
 int check_children(const binary_tree_t *node)
 {
 	if (node == NULL)
-		return (0);
+		return (1);
+
+	if (node->left == NULL && node->right == NULL)
+		return (1);
 
 	if (node->left != NULL && node->right != NULL)
-		return (1);
-	else
-		return (0);
+		return (check_children(node->left) &&
+			check_children(node->right));
 
-	check_children(node->left);
-	check_children(node->right);
+	return (0);
 }
