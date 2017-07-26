@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include "binary_trees.h"
 
 /**
@@ -42,3 +43,6 @@ size_t count_nodes(const binary_tree_t *tree)
 	else
 		return (count);
 }
+=======
+
+>>>>>>> master
