@@ -7,9 +7,9 @@
  */
 int binary_tree_is_perfect(const binary_tree_t *tree)
 {
-	size_t height;
-	size_t size;
-	double perfect_number;
+	int height;
+	int size;
+	int perfect_number;
 
 	if (tree == NULL)
 		return (0);
@@ -21,7 +21,7 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
         height = measure_height(tree);
 	size = measure_size(tree);
 
-	perfect_number = my_pow(2, height + 1) - 1;
+	perfect_number = my_pow(2, height) - 1;
 
 	if (size == perfect_number)
 		return (1);
