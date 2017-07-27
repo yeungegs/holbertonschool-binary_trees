@@ -52,5 +52,6 @@ size_t measure_size(const binary_tree_t *tree);
 size_t count_leaves(const binary_tree_t *tree);
 size_t count_nodes(const binary_tree_t *tree);
 int check_children(const binary_tree_t *node);
+int my_pow(int x, int y);
 
 #endif /* _BINARY_TREES_ */
