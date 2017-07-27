@@ -18,7 +18,7 @@ int binary_tree_is_perfect(const binary_tree_t *tree)
 	if (tree->left != NULL && tree->right == NULL)
 		return (0);
 
-        height = measure_height(tree);
+	height = measure_height(tree);
 	size = measure_size(tree);
 
 	perfect_number = my_pow(2, height) - 1;
