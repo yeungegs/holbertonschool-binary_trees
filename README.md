@@ -4,7 +4,8 @@
 ### Authors: Carrie Ybay [<img src="https://user-images.githubusercontent.com/23224088/27935507-4e614b68-6260-11e7-8b20-d0352ef3ff53.png" height="18px"/>](https://twitter.com/hicarrie_) and Elaine Yeung [<img src="https://user-images.githubusercontent.com/23224088/27935507-4e614b68-6260-11e7-8b20-d0352ef3ff53.png" height="18px"/>](https://twitter.com/egsy)
 
 ## Synopsis
-This project introduces **INSERT DESCRIPTION HERE**
+This project explores and applies the concept of binary tree data structures.
+![image](https://user-images.githubusercontent.com/23224088/28692010-b5ac9718-72d3-11e7-8af0-0731060c9f13.png)
 
 ### At the end of this project students should be able to explain to anyone, **without the help of Google**:
 *   What is a binary tree
