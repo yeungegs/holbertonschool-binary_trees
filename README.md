@@ -15,10 +15,6 @@ This project explores and applies the concept of binary tree data structures.
 *   What are the different traversal methods to go through a binary tree
 *   What is a complete, a full, a perfect, a balanced binary tree
 
-<iframe src="https://giphy.com/embed/K2ZWOSOLLYsAE" width="480" height="373" frameborder="0" class="giphy-embed" allowfullscreen=""></iframe>
-
-[via GIPHY](https://giphy.com/gifs/tree-down-K2ZWOSOLLYsAE)
-
 ### Resources
 *   Read [Binary tree](https://en.wikipedia.org/wiki/Binary_tree) -> note the first line: `Not to be confused with B-tree.`
 *   Also read [Data Structure and Algorithms - Tree](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm), [Tree Traversal](https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm) and [Binary Search Tree](https://en.wikipedia.org/wiki/Binary_search_tree)
